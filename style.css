@@ -1,0 +1,67 @@
+body{
+    width: 1900px;
+    height: 935px;
+    display: flex;
+    position: fixed;
+ justify-content: space-between;
+ cursor: url(aim.png), default;
+ 
+ 
+}
+.jar{
+  
+   position: absolute;
+   height: 150px;
+   width: 150px;
+   background-image: url(baltika_0-150x150.png);
+
+    
+}
+.die {
+   height:150px;
+   width: 150px;
+   position: absolute;
+   background-image: url(bal;tik.png) ;
+   }
+
+   .count_can{
+      position:absolute;
+      width:100%;
+      top:5%;
+      text-align:center;
+   }
+
+   
+   .count{
+      position:absolute;
+      width:100%;
+      top:10%;
+      text-align:center;
+   }
+
+
+.menu{
+   width:1920px ;
+   height: 1080px;
+      text-align:center;
+      cursor: default;
+      background-image: url("1567353508855 (1).jpg");
+   }
+
+
+   .button{
+      width:10%;
+      top:10%;
+    
+      text-align:center;
+   }
+
+   .info{
+      
+      width:10%;
+    
+      text-align:center;
+   }
+
+
+   
